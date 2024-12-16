@@ -2222,7 +2222,7 @@ label {
 	display: block;
 	font-size: 0.9em;
 	font-weight: 600;
-	margin: 0 0 1em 0;
+	margin: 1em 0 1em 0;
 }
 
 input[type="text"],
@@ -2542,7 +2542,7 @@ ol li {
 
 ul {
 	list-style: disc;
-	margin: 0 0 2em 0;
+	margin: 1em 0 2em 0;
 	padding-left: 1em;
 }
 
@@ -3241,6 +3241,13 @@ button:disabled,
 		padding: 6em 1.5em 4em 1.5em;
 	}
 
+}
+
+/* contact */
+
+#contact .inner .split {
+	display: flex;
+	justify-content: space-between;
 }
 
 /* Footer */
