@@ -3265,6 +3265,14 @@ button:disabled,
 	padding: 0;
 }
 
+.copyright ul {
+	margin: 0 0 0 0;
+}
+
+.copyright .icon {
+	color: #5385c1;
+}
+
 .copyright a {
 	color: black;
 	font-weight: 600;
